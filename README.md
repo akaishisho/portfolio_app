@@ -1,24 +1,38 @@
-# README
+# <シフト勤怠管理アプリ>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+<バイトの方や社員の方のシフトや勤怠を管理できる業務アプリ>
 
-Things you may want to cover:
+### サイトテーマ
+<シフト管理、勤怠管理の効率化>
 
-* Ruby version
+### テーマを選んだ理由
+<
+  大学生の頃バイトをしていた際に、シフトを紙で提出していだが、作業がしばしば面倒に思うことがあった。
+  当時、店長がコンピュータがあまり得意でない、かつ余計なコストをかけたくないとのことだったので、
+  今回シンプルで使いやすいシフト管理のアプリの作成したいと思い、このテーマにしました。
+>
 
-* System dependencies
+### ターゲットユーザ
+<
+  小規模な会社や飲食店で、アプリケーションに使い慣れていない管理者の方。
+  紙でシフトを提出し、面倒に思っているバイトの方や社員の方。
+>
 
-* Configuration
+### 主な利用シーン
+<
+  職場でのシフト及び勤怠管理。
+>
 
-* Database creation
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1JBQW9hFtIV11smTorqY8t_kg4-LRssP8FrwicvneonY/edit?usp=sharing
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
